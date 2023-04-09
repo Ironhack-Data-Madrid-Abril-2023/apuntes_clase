@@ -1,0 +1,450 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\froman\fcharset0 TimesNewRomanPS-BoldMT;\f1\froman\fcharset0 TimesNewRomanPSMT;\f2\froman\fcharset0 TimesNewRomanPS-BoldItalicMT;
+\f3\froman\fcharset0 TimesNewRomanPS-ItalicMT;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab708
+\pard\pardeftab708\fi180\ri182\qc\partightenfactor0
+
+\f0\b\fs24 \cf0 \
+Alejandro Dumas\
+\pard\pardeftab708\fi180\ri182\qc\partightenfactor0
+
+\fs36 \cf0 El Conde de Montecristo\
+\pard\pardeftab708\fi180\ri182\qj\partightenfactor0
+
+\f1\b0\fs20 \cf0 \
+\pard\pardeftab708\fi180\ri182\qj\partightenfactor0
+
+\f0\b \cf0 Cap\'edtulo primero\
+\pard\pardeftab708\fi180\ri182\qj\partightenfactor0
+
+\f2\i \cf0 Marsella. La llegada\
+\pard\pardeftab708\ri182\partightenfactor0
+
+\f1\i0\b0 \cf0 \
+\pard\pardeftab708\fi180\ri182\qj\partightenfactor0
+\cf0 El 24 de febrero de 1815, el vig\'eda de Nuestra Se\'f1ora de la Guarda dio la se\'f1al de que se hallaba a la vista el bergant\'edn 
+\f3\i El Fara\'f3n
+\f1\i0  procedente de Esmirna, Trieste y N\'e1poles. Como suele hacerse en tales casos, sali\'f3 inmediatamente en su busca un pr\'e1ctico, que pas\'f3 por delante del castillo de If y subi\'f3 a bordo del buque entre la isla de Ri\'f3n y el cabo Mongi\'f3n. En un instante, y tambi\'e9n como de costumbre, se llen\'f3 de curiosos la plataforma del castillo de San Juan, porque en Marsella se daba gran importancia a la llegada de un buque y sobre todo si le suced\'eda lo que al 
+\f3\i Fara\'f3n
+\f1\i0 , cuyo casco hab\'eda salido de los astilleros de la antigua Focia y pertenec\'eda a un naviero de la ciudad.\
+Mientras tanto, el buque segu\'eda avanzando; habiendo pasado felizmente el estrecho producido por alguna erupci\'f3n volc\'e1nica entre las islas de Calasapeigne y de Jaros, dobl\'f3 la punta de Pomegue hendiendo las olas bajo sus tres gavias, su gran foque y la mesana. Lo hac\'eda con tanta lentitud y tan penosos movimientos, que los curiosos, que por instinto presienten la desgracia, pregunt\'e1banse unos a otros qu\'e9 accidente pod\'eda haber sobrevenido al buque. Los m\'e1s peritos en navegaci\'f3n reconocieron al punto que, de haber sucedido alguna desgracia, no deb\'eda de haber sido al buque, puesto que, aun cuando con mucha lentitud, segu\'eda \'e9ste avanzando con todas las condiciones de los buques bien gobernados.\
+En su puesto estaba preparada el ancla, sueltos los cabos del baupr\'e9s, y al lado del piloto, que se dispon\'eda a hacer que El Fara\'f3n enfilase la estrecha boca del puerto de Marsella, hall\'e1base un joven de fisonom\'eda inteligente que, con mirada muy viva, observaba cada uno de los movimientos del buque y repet\'eda las \'f3rdenes del piloto.\
+Entre los espectadores que se hallaban reunidos en la explanada de San Juan, hab\'eda uno que parec\'eda m\'e1s inquieto que los dem\'e1s y que, no pudiendo contenerse y esperar a que el buque fondeara, salt\'f3 a un bote y orden\'f3 que le llevasen al 
+\f3\i Fara\'f3n
+\f1\i0 , al que alcanz\'f3 frente al muelle de la Reserva.\
+Viendo acercarse al bote y al que lo ocupaba, el marino abandon\'f3 su puesto al lado del piloto y se apoy\'f3, sombrero en mano, en el filarete del buque. Era un joven de unos dieciocho a veinte a\'f1os, de elevada estatura, cuerpo bien proporcionado, hermoso cabello y ojos negros, observ\'e1ndose en toda su persona ese aire de calma y de resoluci\'f3n peculiares a los hombres avezados a luchar con los peligros desde su infancia.\
+\uc0\u8209 \'a1Ah! \'a1Sois vos Edmundo! \'bfQu\'e9 es lo que ha sucedido? \u8209 pregunt\'f3 el del bote\u8209  \'bfQu\'e9 significan esas caras tan tristes que tienen todos los de la tripulaci\'f3n?\
+\uc0\u8209 Una gran desgracia, para m\'ed al menos, se\'f1or Morrel \u8209 respondi\'f3 Edmundo\u8209 . Al llegar a la altura de Civita\u8209 Vecchia, falleci\'f3 el valiente capit\'e1n Leclerc...\
+\uc0\u8209 \'bfY el cargamento? \u8209 pregunt\'f3 con ansia el naviero.\
+\uc0\u8209 Intacto, sin novedad. El capit\'e1n Leclerc...\
+\uc0\u8209 \'bfQu\'e9 le ha sucedido? pregunt\'f3 el naviero, ya m\'e1s tranquilo. \'bfQu\'e9 le ocurri\'f3 a ese valiente capit\'e1n?\
+\uc0\u8209 Muri\'f3.\
+\uc0\u8209 \'bfCay\'f3 al mar?\
+\uc0\u8209 No, se\'f1or; muri\'f3 de una calentura cerebral, en medio de horribles padecimientos.\
+Volvi\'e9ndose luego hacia la tripulaci\'f3n:\
+\uc0\u8209 \'a1Hola! dijo Cada uno a su puesto, vamos a anclar.\
+La tripulaci\'f3n obedeci\'f3, lanz\'e1ndose inmediatamente los ocho o diez marineros que la compon\'edan unos a las escotas, otros a las drizas y otros a cargar velas.\
+Edmundo observ\'f3 con una mirada indiferente el principio de la maniobra, y viendo a punto de ejecutarse sus \'f3rdenes, volvi\'f3se hacia su interlocutor.\
+\uc0\u8209 Pero \'bfc\'f3mo sucedi\'f3 esa desgracia? \u8209 continu\'f3 el naviero.\
+\uc0\u8209 \'a1Oh, Dios m\'edo!, de un modo inesperado. Despu\'e9s de una larga pl\'e1tica con el comandante del puerto, el capit\'e1n Leclerc sali\'f3 de N\'e1poles bastante agitado, y no hab\'edan transcurrido veinticuatro horas cuando le acometi\'f3 la fiebre... y a los tres d\'edas hab\'eda fallecido. Le hicimos los funerales de ordenanza, y reposa decorosamente envuelto en una hamaca, con una bala del treinta y seis a los pies y otra a la cabeza, a la altura de la isla de Giglio. La cruz de la Legi\'f3n de Honor y la espada las conservamos y las traemos a su viuda.\
+\uc0\u8209 Es muy triste, ciertamente prosigui\'f3 el joven con melanc\'f3lica sonrisa haber hecho la guerra a los ingleses por espacio de diez a\'f1os, y morir despu\'e9s en su cama como otro cualquiera.\
+\uc0\u8209 \'bfY qu\'e9 vamos a hacerle, se\'f1or Edmundo? replic\'f3 el naviero, cada vez m\'e1s tranquilo; somos mortales, y es necesario que los viejos cedan su puesto a los j\'f3venes; a no ser as\'ed no habr\'eda ascensos, y puesto que me asegur\'e1is que el cargamento...\
+\uc0\u8209 Se halla en buen estado, se\'f1or Morrel. Os aconsejo, pues, que no lo ced\'e1is ni aun con veinticinco mil francos de ganancia.\
+Acto seguido, y viendo que hab\'edan pasado ya la torre Redonda, grit\'f3 Edmundo:\
+\uc0\u8209 Largad las velas de las escotas, el foque y las de mesana.\
+La orden se ejecut\'f3 casi con la misma exactitud que en un buque de guerra.\
+\uc0\u8209 Amainad y cargad por todas partes.\
+A esta \'faltima orden se plegaron todas las velas, y el barco avanz\'f3 de un modo casi imperceptible.\
+\uc0\u8209 Si quer\'e9is subir ahora, se\'f1or Morrel dijo Dant\'e9s d\'e1ndose cuenta de la impaciencia del armador, aqu\'ed viene vuestro encargado, el se\'f1or Danglars, que sale de su camarote, y que os informar\'e1 de todos los detalles que dese\'e9is. Por lo que a m\'ed respecta, he de vigilar las maniobras hasta que quede El Fara\'f3n anclado y de luto.\
+No dej\'f3 el naviero que le repitieran la invitaci\'f3n, y asi\'e9ndose a un cable que le arroj\'f3 Dant\'e9s, subi\'f3 por la escala del costado del buque con una ligereza que honrara a un marinero, mientras que Dant\'e9s, volviendo a su puesto, cedi\'f3 el que ocupaba \'faltimamente a aquel que hab\'eda anunciado con el nombre de Danglars, y que saliendo de su camarote se dirig\'eda adonde estaba el naviero.\
+El reci\'e9n llegado era un hombre de veinticinco a veintis\'e9is a\'f1os, de semblante algo sombr\'edo, humilde con los superiores, insolente con los inferiores; de modo que con esto y con su calidad de sobrecargo, siempre tan mal visto, le aborrec\'eda toda la tripulaci\'f3n, tanto como quer\'eda a Dant\'e9s.\
+\uc0\u8209 \'a1Y bien!, se\'f1or Morrel \u8209 dijo Danglars\u8209 , ya sab\'e9is la desgracia, \'bfno es cierto?\
+\uc0\u8209 S\'ed, s\'ed, \'a1pobre capit\'e1n Leclerc! Era muy bueno y valeroso.\
+\uc0\u8209 Y buen marino sobre todo, encanecido entre el cielo y el agua, como debe ser el hombre encargado de los intereses de una casa tan respetable como la de Morrel a hijos \u8209 respondi\'f3 Danglars.\
+\uc0\u8209 Sin embargo repuso el naviero mirando a Dant\'e9s, que fondeaba en este instante, me parece que no se necesita ser marino viejo, como dec\'eds, para ser ducho en el oficio. Y si no, ah\'ed ten\'e9is a nuestro amigo Edmundo, que de tal modo conoce el suyo, que no ha de menester lecciones de nadie.\
+\uc0\u8209 \'a1Oh!, s\'ed \u8209 dijo Danglars dirigi\'e9ndole una aviesa mirada en la que se reflejaba un odio reconcentrado\u8209 ; parece que este joven todo lo sabe. Apenas muri\'f3 el capit\'e1n, se apoder\'f3 del mando del buque sin consultar a nadie, y a\'fan nos hizo perder d\'eda y medio en la isla de Elba en vez de proseguir rumbo a Marsella.\
+\uc0\u8209 Al tomar el mando del buque \u8209 repuso el naviero\u8209  cumpli\'f3 con su deber; en cuanto a perder d\'eda y medio en la isla de Elba, obr\'f3 mal, si es que no tuvo que reparar alguna aver\'eda.\
+\uc0\u8209 Se\'f1or Morrel, el bergant\'edn se hallaba en excelente estado y aquella demora fue puro capricho, deseos de bajar a tierra, no lo dud\'e9is.\
+\uc0\u8209 Dant\'e9s \u8209 dijo el naviero encar\'e1ndose con el joven\u8209 , venid ac\'e1.\
+\uc0\u8209 Disculpadme, se\'f1or Morrel \u8209 dijo Dant\'e9s\u8209 , voy en seguida.\
+Y en seguida orden\'f3 a la tripulaci\'f3n: \'abFondo\'bb; a inmediatamente cay\'f3 el anda al agua, haciendo rodar la cadena con gran estr\'e9pito. Dant\'e9s permaneci\'f3 en su puesto, a pesar de la presencia del piloto, hasta que esta \'faltima maniobra hubo concluido.\
+\uc0\u8209 \'a1Bajad el gallardete hasta la mitad del mastelero! \u8209 grit\'f3 en seguida\u8209 . \'a1Iza el pabell\'f3n, cruza las vergas!\
+\uc0\u8209 \'bfLo veis? \u8209 observ\'f3 Danglars\u8209 , ya se cree capit\'e1n.\
+\uc0\u8209 Y de hecho lo es \u8209 contest\'f3 el naviero.\
+\uc0\u8209 S\'ed, pero sin vuestro consentimiento ni el de vuestro asociado, se\'f1or Morrel.\
+\uc0\u8209 \'a1Diantre! \'bfY por qu\'e9 no le hemos de dejar con ese cargo? \u8209 repuso Morrel\u8209 . Es joven, ya lo s\'e9, pero me parece que le sobra experiencia para ejercerlo...\
+Una nube ensombreci\'f3 la frente de Danglars.\
+\uc0\u8209 Disculpadme, se\'f1or Morrel \u8209 dijo Dant\'e9s acerc\'e1ndose\u8209 , y puesto que ya hemos fondeado, aqu\'ed me ten\'e9is a vuestras \'f3rdenes. Me llamasteis, \'bfno es verdad?\
+Danglars hizo adem\'e1n de retirarse.\
+\uc0\u8209 Quer\'eda preguntaros por qu\'e9 os hab\'e9is detenido en la isla de Elba.\
+\uc0\u8209 Lo ignoro, se\'f1or Morrel: fue para cumplir las \'faltimas \'f3rdenes del capit\'e1n Leclerc, que me entreg\'f3, al morir, un paquete para el mariscal Bertrand.\
+\uc0\u8209 \'bfPudisteis verlo, Edmundo?\
+\uc0\u8209 \'bfA qui\'e9n?\
+\uc0\u8209 Al mariscal.\
+\uc0\u8209 S\'ed.\
+Morrel mir\'f3 en derredor, y llevando a Dant\'e9s aparte:\
+\uc0\u8209 \'bfC\'f3mo est\'e1 el emperador? \u8209 le pregunt\'f3 con inter\'e9s.\
+\uc0\u8209 Seg\'fan he podido juzgar por m\'ed mismo, muy bien.\
+\uc0\u8209 \'a1C\'f3mo! \'bfTambi\'e9n hab\'e9is visto al emperador?...\
+\uc0\u8209 S\'ed, se\'f1or; entr\'f3 en casa del mariscal cuando yo estaba en ella... \u8209 \'bfY le hablasteis?\
+\uc0\u8209 Al contrario, \'e9l me habl\'f3 a m\'ed \u8209 repuso Dant\'e9s sonri\'e9ndole.\
+\uc0\u8209 \'bfY qu\'e9 fue lo que os dijo?\
+\uc0\u8209 H\'edzome mil preguntas acerca del buque, de la \'e9poca de su salida de Marsella, el rumbo que hab\'eda seguido y del cargamento que tra\'eda. Creo que a haber venido en lastre, y a ser yo su due\'f1o, su intenci\'f3n fuera el compr\'e1rmelo; pero le dije que no era m\'e1s que un simple segundo, y que el buque pertenec\'eda a la casa Morrel a hijos. \'ab \'a1Ah \u8209 dijo entonces\u8209 , la conozco. Los Morrel han sido siempre navieros, y uno de ellos serv\'eda en el mismo regimiento que yo, cuando est\'e1bamos de guarnici\'f3n en Valence.\'bb\
+\uc0\u8209 \'a1Es verdad! \u8209 exclam\'f3 el naviero, loco de contento\u8209 . Ese era Policarpo Morrel, mi t\'edo, que es ahora capit\'e1n. Dant\'e9s, si dec\'eds a mi t\'edo que el emperador se ha acordado de \'e9l, le ver\'e9is llorar como un ni\'f1o. \'a1Pobre viejo! Vamos, vamos \u8209 a\'f1adi\'f3 el naviero dando cari\'f1osas palmadas en el hombro del joven\u8209 ; hab\'e9is hecho bien en seguir las instrucciones del capit\'e1n Leclerc deteni\'e9ndoos en la isla de Elba, a pesar de que podr\'eda comprometeros el que se supiese que hab\'e9is entregado un pliego al mariscal y hablado con el emperador.\
+\uc0\u8209 \'bfY por qu\'e9 hab\'eda de comprometerme? \u8209 dijo Dant\'e9s\u8209 . Puedo asegurar que no sab\'eda de qu\'e9 se trataba; y en cuanto al emperador, no me hizo preguntas de las que hubiera hecho a otro cualquiera. Pero con vuestro permiso \u8209 continu\'f3 Dant\'e9s\u8209 : vienen los aduaneros, os dejo...\
+\uc0\u8209 S\'ed, s\'ed, querido Dant\'e9s, cumplid vuestro deber.\
+El joven se alej\'f3, mientras iba aproxim\'e1ndose Danglars.\
+\uc0\u8209 Vamos \u8209 pregunt\'f3 \'e9ste\u8209 , \'bfos explic\'f3 el motivo por el cual se detuvo en Porto\u8209 Ferrajo?\
+\uc0\u8209 S\'ed, se\'f1or Danglars.\
+\uc0\u8209 Vaya, tanto mejor \u8209 respondi\'f3 \'e9ste\u8209 , porque no me gusta tener un compa\'f1ero que no cumple con su deber.\
+\uc0\u8209 Dant\'e9s ya ha cumplido con el suyo \u8209 respondi\'f3 el naviero\u8209 , y no hay por qu\'e9 reprenderle. Cumpli\'f3 una orden del capit\'e1n Leclerc.\
+\uc0\u8209 A prop\'f3sito del capit\'e1n Leclerc: \'bfos ha entregado una carta de su parte?\
+\uc0\u8209 \'bfQui\'e9n?\
+\uc0\u8209 Dant\'e9s.\
+\uc0\u8209 \'bfA m\'ed?, no. \'bfLe dio alguna carta para m\'ed?\
+\uc0\u8209 Supon\'eda que adem\'e1s del pliego le hubiese confiado tambi\'e9n el capit\'e1n una carta.\
+\uc0\u8209 Pero \'bfde qu\'e9 pliego habl\'e1is, Danglars?\
+\uc0\u8209 Del que Dant\'e9s ha dejado al pasar en Porto\u8209 Ferrajo.\
+\uc0\u8209 C\'f3mo, \'bfsab\'e9is que Dant\'e9s llevaba un pliego para dejarlo en Porto\u8209 Ferrajo. .. ?\
+Danglars se sonroj\'f3.\
+\uc0\u8209 Pasaba casualmente por delante de la puerta del capit\'e1n, estaba entreabierta, y le vi entregar a Dant\'e9s un paquete y una carta.\
+\uc0\u8209 Nada me dijo a\'fan \u8209 contest\'f3 el naviero\u8209 , pero si trae esa carta, \'e9l me la dar\'e1.\
+Danglars reflexion\'f3 un instante.\
+\uc0\u8209 En ese caso, se\'f1or Morrel, os suplico que nada dig\'e1is de esto a Dant\'e9s; me habr\'e9 equivocado.\
+En esto volvi\'f3 el joven y Danglars se alej\'f3.\
+\uc0\u8209 Querido Dant\'e9s, \'bfest\'e1is ya libre? \u8209 le pregunt\'f3 el naviero.\
+\uc0\u8209 S\'ed, se\'f1or.\
+\uc0\u8209 La operaci\'f3n no ha sido larga, vamos.\
+\uc0\u8209 No, he dado a los aduaneros la factura de nuestras mercanc\'edas, y los papeles de mar a un oficial del puerto que vino con el pr\'e1ctico.\
+\uc0\u8209 \'bfConque nada ten\'e9is que hacer aqu\'ed?\
+Dant\'e9s cruz\'f3 una ojeada en torno.\
+\uc0\u8209 No, todo est\'e1 en orden.\
+\uc0\u8209 Podr\'e9is venir a comer con nosotros, \'bfverdad?\
+\uc0\u8209 Dispensadme, se\'f1or Morrel, dispensadme, os lo ruego, porque antes quiero ver a mi padre. Sin embargo, no os quedo menos reconocido por el honor que me hac\'e9is.\
+\uc0\u8209 Es muy justo, Dant\'e9s, es muy justo; ya s\'e9 que sois un buen hijo.\
+\uc0\u8209 \'bfSab\'e9is c\'f3mo est\'e1 mi padre? \u8209 pregunt\'f3 Dant\'e9s con inter\'e9s.\
+\uc0\u8209 Creo que bien, querido Edmundo, aunque no le he visto.\
+\uc0\u8209 Continuar\'e1 encerrado en su m\'edsero cuartucho.\
+\uc0\u8209 Eso demuestra al menos que nada le ha hecho falta durante vuestra ausencia.\
+Dant\'e9s se sonri\'f3.\
+\uc0\u8209 Mi padre es demasiado orgulloso, se\'f1or Morrel, y aunque hubiera carecido de lo m\'e1s necesario, dudo que pidiera nada a nadie, excepto a Dios.\
+\uc0\u8209 Bien, entonces despu\'e9s de esa primera visita cuento con vos.\
+\uc0\u8209 Os repito mis excusas, se\'f1or Morrel; pero despu\'e9s de esa primera visita quiero hacer otra no menos interesante a mi coraz\'f3n.\
+\uc0\u8209 \'a1Ah!, es verdad, Dant\'e9s, me olvidaba de que en el barrio de los Catalanes hay una persona que debe esperaros con tanta impaciencia como vuestro padre, la hermosa Mercedes.\
+Dant\'e9s se sonroj\'f3 intensamente.\
+\uc0\u8209 Ya, ya \u8209 repuso el naviero\u8209 ; por eso no me asombra que haya ido tres veces a pedir informaci\'f3n acerca de la vuelta de El Fara\'f3n. \'a1C\'e1spita! Edmundo, en verdad que sois hombre que entiende del asunto. Ten\'e9is una querida muy guapa.\
+\uc0\u8209 No es querida, se\'f1or Morrel \u8209 dijo con gravedad el marino\u8209 ; es mi novia.\
+\uc0\u8209 Es lo mismo \u8209 contest\'f3 el naviero, ri\'e9ndose.\
+\uc0\u8209 Para nosotros no, se\'f1or Morrel.\
+\uc0\u8209 Vamos, vamos, mi querido Edmundo \u8209 replic\'f3 el se\'f1or Morrel\u8209 , no quiero deteneros por m\'e1s tiempo. Hab\'e9is desempe\'f1ado harto bien mis negocios para que yo os impida que os ocup\'e9is de los vuestros. \'bfNecesit\'e1is dinero?\
+\uc0\u8209 No, se\'f1or; conservo todos mis sueldos de viaje.\
+\uc0\u8209 Sois un muchacho muy ahorrativo, Edmundo.\
+\uc0\u8209 Y a\'f1adid que tengo un padre pobre, se\'f1or Morrel.\
+\uc0\u8209 S\'ed, ya s\'e9 que sois buen hijo. Id a ver a vuestro padre.\
+El joven dijo, saludando:\
+\uc0\u8209 Con vuestro permiso.\
+\uc0\u8209 Pero \'bfno ten\'e9is nada que decirme?\
+\uc0\u8209 No, se\'f1or.\
+\uc0\u8209 El capit\'e1n Lederc, \'bfno os dio al morir una carta para m\'ed?\
+\uc0\u8209 \'a1Oh!, no; le hubiera sido imposible escribirla; pero esto me recuerda que tendr\'e9 que pediros licencia por unos d\'edas.\
+\uc0\u8209 \'bfPara casaros?\
+\uc0\u8209 Primeramente, para eso, y luego para ir a Par\'eds.\
+\uc0\u8209 Bueno, bueno, por el tiempo que quer\'e1is, Dant\'e9s. La operaci\'f3n de descargar el buque nos ocupar\'e1 seis semanas lo menos, de manera que no podr\'e1 darse a la vela otra vez hasta dentro de tres meses. Para esa \'e9poca s\'ed necesito que est\'e9is de vuelta, porque 
+\f3\i El Fara\'f3n 
+\f1\i0 \uc0\u8209 continu\'f3 el naviero tocando en el hombro al joven marino\u8209  no podr\'eda volver a partir sin su capit\'e1n.\
+\uc0\u8209 \'a1Sin su capit\'e1n! \u8209 exclam\'f3 Dant\'e9s con los ojos radiantes de alegr\'eda\u8209 . Pensad lo que dec\'eds, se\'f1or Morrel, porque esas palabras hacen nacer las ilusiones m\'e1s queridas de mi coraz\'f3n. \'bfPens\'e1is nombrarme capit\'e1n de 
+\f3\i El Fara\'f3n
+\f1\i0 ?\
+\uc0\u8209 Si s\'f3lo dependiera de m\'ed, os dar\'eda la mano, mi querido Dant\'e9s, dici\'e9ndoos... \'abes cosa hecha\'bb; pero tengo un socio, y ya sab\'e9is el refr\'e1n italiano: 
+\f3\i Chi a compagno a padrone
+\f1\i0 . Sin embargo, mucho es que de dos votos teng\'e1is ya uno; en cuanto al otro confiad en m\'ed, que yo har\'e9 lo posible por que lo obteng\'e1is tambi\'e9n.\
+\uc0\u8209 \'a1Oh, se\'f1or Morrel! \u8209 exclam\'f3 el joven con los ojos inundados en l\'e1grimas y estrechando la mano del naviero\u8209 ; se\'f1or Morrel, os doy gracias en nombre de mi padre y de Mercedes.\
+\uc0\u8209 Basta, basta \u8209 dijo Morrel\u8209 . Siempre hay Dios en el cielo para la gente honrada; id a verlos y volved despu\'e9s a mi encuentro.\
+\uc0\u8209 \'bfNo quer\'e9is que os conduzca a tierra?\
+\uc0\u8209 No, gracias: tengo a\'fan que arreglar mis cuentas con Danglars. \'bfOs llevasteis bien con \'e9l durante el viaje?\
+\uc0\u8209 Seg\'fan el sentido que deis a esa pregunta. Como camarada, no, porque creo que no me desea bien, desde el d\'eda en que a consecuencia de cierta disputa le propuse que nos detuvi\'e9semos los dos solos diez minutos en la isla de Montecristo, proposici\'f3n que no acept\'f3. Como agente de vuestros negocios, nada tengo que decir y quedar\'e9is satisfecho.\
+\uc0\u8209 Si lleg\'e1is a ser capit\'e1n de
+\f3\i  El Fara\'f3n,
+\f1\i0  \'bfos llevar\'e9is bien con Danglars?\
+\uc0\u8209 Capit\'e1n o segundo, se\'f1or Morrel \u8209 respondi\'f3 Dant\'e9s\u8209 , guardar\'e9 siempre las mayores consideraciones a aquellos que posean la confianza de mis principales.\
+\uc0\u8209 Vamos, vamos, Dant\'e9s, veo que sois cabalmente un excelente muchacho. No quiero deteneros m\'e1s, porque noto que est\'e1is ardiendo de impaciencia.\
+\uc0\u8209 \'bfMe permit\'eds... , entonces?\
+\uc0\u8209 S\'ed, ya pod\'e9is iros.\
+\uc0\u8209 \'bfPodr\'e9 usar la lancha que os trajo?\
+\uc0\u8209 \'a1No faltaba m\'e1s!\
+\uc0\u8209 Hasta la vista, se\'f1or Morrel, y gracias por todo.\
+\uc0\u8209 Que Dios os gu\'ede.\
+\uc0\u8209 Hasta la vista, se\'f1or Morrel.\
+\uc0\u8209 Hasta la vista, mi querido Edmundo.\
+El joven salt\'f3 a la lancha, y sent\'e1ndose en la popa dio orden de abordar a la Cannebi\'e8re. Dos marineros iban al remo, y la lancha se desliz\'f3 con toda la rapidez que es posible en medio de los mil buques que obstruyen la especie de callej\'f3n formado por dos filas de barcos desde la entrada del puerto al muelle de Orle\'e1ns.\
+El naviero le sigui\'f3 con la mirada, sonri\'e9ndose hasta que le vio saltar a los escalones del muelle y confundirse entre la multitud, que desde las cinco de la ma\'f1ana hasta las nueve de la noche llena la famosa calle de la Cannebi\'e8re, de la que tan orgullosos se sienten los modernos focenses, que dicen con la mayor seriedad: \'abSi Par\'eds tuviese la Cannebi\'e8re, ser\'eda una Marsella en peque\'f1o.\'bb\
+Al volverse el naviero, vio detr\'e1s de s\'ed a Danglars, que aparentemente esperaba sus \'f3rdenes; pero que en realidad vigilaba al joven marino. Sin embargo, esas dos miradas dirigidas al mismo hombre eran muy diferentes.\
+\
+\pard\pardeftab708\fi180\ri182\qj\partightenfactor0
+
+\f0\b \cf0 Cap\'edtulo segundo\
+\pard\pardeftab708\fi180\ri182\qj\partightenfactor0
+
+\f2\i \cf0 El padre y el hijo
+\f3\b0 \
+\
+\pard\pardeftab708\fi180\ri182\qj\partightenfactor0
+
+\f1\i0 \cf0 Y dejando que Danglars diera rienda suelta a su odio inventando alguna calumnia contra su camarada, sigamos a Dant\'e9s, que despu\'e9s de haber recorrido la Cannebi\'e8re en toda su longitud, se dirigi\'f3 a la calle de Noailles, entr\'f3 en una casita situada al lado izquierdo de las alamedas de Meill\'e1n, subi\'f3 de prisa los cuatro tramos de una escalera oscur\'edsima, y comprimiendo con una mano los latidos de su coraz\'f3n se detuvo delante de una puerta entreabierta que dejaba ver hasta el fondo de aquella estancia; all\'ed era donde viv\'eda el padre de Dant\'e9s.\
+La noticia de la arribada de 
+\f3\i El Fara\'f3n
+\f1\i0  no hab\'eda llegado a\'fan hasta el anciano, que encaramado en una silla, se ocupaba en clavar estacas con mano temblorosa para unas capuchinas y enredaderas que trepaban hasta la ventana.\
+De pronto sinti\'f3 que le abrazaban por la espalda, y oy\'f3 una voz que exclamaba:\
+\uc0\u8209 \'a1Padre! ..., \'a1padre m\'edo!\
+El anciano, dando un grito, volvi\'f3 la cabeza; pero al ver a su hijo se dej\'f3 caer en sus brazos p\'e1lido y tembloroso.\
+\uc0\u8209 \'bfQu\'e9 tienes, padre? \u8209 exclam\'f3 el joven lleno de inquietud\u8209 . \'bfTe encuentras mal?\
+\uc0\u8209 No, no, querido Edmundo, hijo m\'edo, hijo de mi alma, no; pero no lo esperaba, y la alegr\'eda... la alegr\'eda de verte as\'ed..., tan de repente... \'a1Dios m\'edo!, me parece que voy a morir...\
+\uc0\u8209 C\'e1lmate, padre: yo soy, no lo dudes; entr\'e9 sin prepararte, porque dicen que la alegr\'eda no mata. Ea, sonr\'ede, y no me mires con esos ojos tan asustados. Ya me tienes de vuelta y vamos a ser felices.\
+\uc0\u8209 \'a1Ah!, \'bfconque es verdad? \u8209 replic\'f3 el anciano\u8209 : \'bfconque vamos a ser muy felices? \'bfConque no me dejar\'e1s otra vez? Cu\'e9ntamelo todo.\
+\uc0\u8209 Dios me perdone \u8209 dijo el joven\u8209 , si me alegro de una desgracia que ha llenado de luto a una familia, pues el mismo Dios sabe que nunca anhel\'e9 esta clase de felicidad; pero sucedi\'f3, y confieso que no lo lamento. El capit\'e1n Leclerc ha muerto, y es probable que, con la protecci\'f3n del se\'f1or Morrel, ocupe yo su plaza... \'a1Capit\'e1n a los veinte a\'f1os, con cien luises de sueldo y una parte en las ganancias! \'bfNo es mucho m\'e1s de lo que pod\'eda esperar yo, un pobre marinero?\
+\uc0\u8209 S\'ed, hijo m\'edo, s\'ed \u8209 dijo el anciano\u8209 , \'a1eso es una gran felicidad!\
+\uc0\u8209 As\'ed pues, quiero, padre, que del primer dinero que gane alquiles una casa con jard\'edn, para que puedas plantar tus propias enredaderas y tus capuchinas..., pero \'bfqu\'e9 tienes, padre? parece que lo encuentras mal.\
+\uc0\u8209 No, no, hijo m\'edo, no es nada.\
+Las fuerzas faltaron al anciano, que cay\'f3 hacia atr\'e1s.\
+\uc0\u8209 Vamos, vamos \u8209 dijo el joven\u8209 , un vaso de vino lo reanimar\'e1. \'bfD\'f3nde lo tienes?\
+\uc0\u8209 No, gracias, no tengo necesidad de nada \u8209 dijo el anciano procurando detener a su hijo.\
+\uc0\u8209 S\'ed, padre, s\'ed, es necesario; dime d\'f3nde est\'e1.\
+Y abri\'f3 dos o tres armarios.\
+\uc0\u8209 No te molestes \u8209 dijo el anciano\u8209 , no hay vino en casa.\
+\uc0\u8209 \'a1C\'f3mo! \'bfNo tienes vino? \u8209 exclam\'f3 Dant\'e9s palideciendo a su vez y mirando alternativamente las mejillas flacas y descarnadas del viejo\u8209 . \'bfY por qu\'e9 no tienes? \'bfPor ventura lo ha hecho falta dinero, padre m\'edo?\
+\uc0\u8209 Nada me ha hecho falta, pues ya lo veo \u8209 dijo el anciano.\
+\uc0\u8209 No obstante \u8209 replic\'f3 Dant\'e9s limpi\'e1ndose el sudor que corr\'eda por su frente\u8209 , yo le dej\'e9 doscientos francos... hace tres meses, al partir.\
+\uc0\u8209 S\'ed, s\'ed, Edmundo, es verdad. Pero olvidaste cierta deudilla que ten\'edas con nuestro vecino Caderousse; me lo record\'f3, dici\'e9ndome que si no se la pagaba ir\'eda a casa del se\'f1or Morrel... y yo, temiendo que esto lo perjudicase, \'bfqu\'e9 deb\'eda hacer? Le pagu\'e9.\
+\uc0\u8209 Pero eran ciento cuarenta francos los que yo deb\'eda a Caderousse... \u8209 exclam\'f3 Dant\'e9s\u8209 . \'bfSe los pagaste de los doscientos que yo lo dej\'e9?\
+El anciano hizo un movimiento afirmativo con la cabeza.\
+\uc0\u8209 De modo que has vivido tres meses con sesenta francos... \u8209 murmur\'f3 el joven.\
+\uc0\u8209 Ya sabes que con poco me basta \u8209 dijo su padre.\
+\uc0\u8209 \'a1Ah, Dios m\'edo, Dios m\'edo! \'a1Perdonadme! \u8209 exclam\'f3 Edmundo arrodill\'e1ndose ante aquel buen anciano.\
+\uc0\u8209 \'bfQu\'e9 haces?\
+\uc0\u8209 Me desgarraste el coraz\'f3n.\
+\uc0\u8209 \'a1Bah!, puesto que ya est\'e1s aqu\'ed \u8209 dijo el anciano sonriendo\u8209 , todo lo olvido.\
+\uc0\u8209 S\'ed, aqu\'ed estoy \u8209 dijo el joven\u8209 , soy rico de porvenir y rico un tanto de dinero. Toma, toma, padre, y env\'eda al instante por cualquier cosa.\
+Y vaci\'f3 sobre la mesa sus bolsillos, que conten\'edan una docena de monedas de oro, cinco o seis escudos de cinco francos cada uno y varias monedas peque\'f1as.\
+El viejo Dant\'e9s se qued\'f3 asombrado.\
+\uc0\u8209 \'bfPara qui\'e9n es esto? \u8209 preguntole.\
+\uc0\u8209 Para m\'ed, para ti, para nosotros. Toma, compra provisiones, s\'e9 feliz; ma\'f1ana, Dios dir\'e1.\
+\uc0\u8209 Despacio, despacito \u8209 dijo sonriendo el anciano\u8209 ; con lo permiso gastar\'e9, pero con moderaci\'f3n, pues creer\'edan al verme comprar muchas cosas que me he visto obligado a esperar tu vuelta para tener dinero.\
+\uc0\u8209 Puedes hacer lo que quieras. Pero, ante todo, toma una criada, padre m\'edo. No quiero que lo quedes solo. Traigo caf\'e9 de contrabando y buen tabaco en un cofrecito; ma\'f1ana estar\'e1 aqu\'ed. Pero, silencio, que viene gente.\
+\uc0\u8209 Ser\'e1 Caderousse, que sabiendo tu llegada vendr\'e1 a felicitarte.\
+\uc0\u8209 Bueno, siempre labios que dicen lo que el coraz\'f3n no siente \u8209 murmur\'f3 Edmundo\u8209 ; pero no importa, al fin es un vecino y nos ha hecho un favor.\
+En efecto, cuando Edmundo dec\'eda esta frase en voz baja, se vio asomar en la puerta de la escalera la cabeza negra y barbuda de Caderousse. Era un hombre de veinticinco a veintis\'e9is a\'f1os, y llevaba en la mano un trozo de pa\'f1o, que en su calidad de sastre se dispon\'eda a convertir en forro de un traje.\
+\uc0\u8209 \'a1Hola, bien venido, Edmundo! \u8209 dijo con un acento marsell\'e9s de los m\'e1s pronunciados, y con una sonrisa que descubr\'eda unos dientes blanqu\'edsimos.\
+\uc0\u8209 Tan bueno como de costumbre, vecino Caderousse, y siempre dispuesto a serviros en lo que os plazca \u8209 respondi\'f3 Dant\'e9s disimulando su frialdad con aquella oferta servicial.\
+\uc0\u8209 Gracias, gracias; afortunadamente yo no necesito de nada, sino que por el contrario, los dem\'e1s son los que necesitan algunas veces de m\'ed (Dant\'e9s hizo un movimiento). No digo esto por ti, muchacho: te he prestado dinero, pero me lo has devuelto, eso es cosa corriente entre buenos vecinos, y estamos en paz.\
+\uc0\u8209 Nunca se est\'e1 en paz con los que nos hacen un favor \u8209 dijo Dant\'e9s\u8209 , porque aunque se pague el dinero, se debe la gratitud.\
+\uc0\u8209 \'bfA qu\'e9 hablar de eso? Lo pasado, pasado; hablemos de tu feliz llegada, muchacho. Iba hacia el puerto a comprar pa\'f1o, cuando me encontr\'e9 con el amigo Danglars. \'ab \'bfT\'fa en Marsella? \'bb, le dije. \'ab \'bfNo lo ves? \'bb, me respondi\'f3. \'ab \'a1Pues yo lo cre\'eda en Esmirna! \'bb \'ab\'a1Toma! , si ahora he vuelto de all\'e1.\'bb \'ab \'bfY sabes d\'f3nde est\'e1 Edmundo?\'bb \'ab En casa de su padre, sin duda\'bb, respondi\'f3 Danglars. Entonces vine presuroso \u8209 continu\'f3 Caderousse\u8209 , para estrechar la mano a un amigo.\
+\uc0\u8209 \'a1Qu\'e9 bueno es este Caderousse! \u8209 dijo el anciano\u8209 . \'a1Cu\'e1nto nos ama!\
+\uc0\u8209 Ciertamente que os amo y os estimo, porque sois muy honrados, y esta clase de hombres no abunda... Pero a lo que veo vienes rico, muchacho \u8209 a\'f1adi\'f3 el sastre reparando en el mont\'f3n de oro y plata que Dant\'e9s hab\'eda dejado sobre la mesa.\
+El joven observ\'f3 el rayo de codicia que iluminaba los ojos de su vecino.\
+\uc0\u8209 \'a1Bah! \u8209 dijo con sencillez\u8209 , ese dinero no es m\'edo. Manifest\'e9 a mi padre temor de que hubiera necesitado algo durante mi ausencia, y para tranquilizarme vaci\'f3 su bolsa aqu\'ed. Vamos, padre \u8209 sigui\'f3 diciendo Dant\'e9s\u8209 , guarda ese dinero, si es que a su vez no lo necesita el vecino Caderousse, en cuyo caso lo tiene a su disposici\'f3n.\
+\uc0\u8209 No, muchacho \u8209 dijo Caderousse\u8209 , nada necesito, que a Dios gracias el oficio alimenta al hombre. Guarda tu dinero, y Dios te d\'e9 mucho m\'e1s; eso no impide que yo deje de agradec\'e9rtelo como si me hubiera aprovechado de \'e9l.\
+\uc0\u8209 Yo lo ofrezco de buena voluntad \u8209 dijo Dant\'e9s.\
+\uc0\u8209 No lo dudo. A otra cosa. \'bfConque eres ya el favorito de Morrel? \'a1Picaruelo!\
+\uc0\u8209 El se\'f1or Morrel ha sido siempre muy bondadoso conmigo \u8209 respondi\'f3 Dant\'e9s.\
+\uc0\u8209 En ese caso, has hecho muy mal en rehusar su invitaci\'f3n.\
+\uc0\u8209 \'a1C\'f3mo! \'bfRehusar su invitaci\'f3n? \u8209 exclam\'f3 el viejo Dant\'e9s\u8209 . \'bfTe ha convidado a comer?\
+\uc0\u8209 S\'ed, padre m\'edo \u8209 replic\'f3 Edmundo sonri\'e9ndose al ver la sorpresa de su padre.\
+\uc0\u8209 \'bfY por qu\'e9 has rehusado, hijo? \u8209 pregunt\'f3 el anciano.\
+\uc0\u8209 Para abrazaros antes, padre m\'edo \u8209 respondi\'f3 el joven\u8209 ; \'a1ten\'eda tantas ganas de veros!\
+\uc0\u8209 Pero no debiste contrariar a ese buen se\'f1or Morrel \u8209 replic\'f3 Caderousse\u8209 , que el que desea ser capit\'e1n, no debe desairar a su naviero.\
+\uc0\u8209 Ya le expliqu\'e9 la causa de mi negativa \u8209 replic\'f3 Dant\'e9s\u8209 , y espero que lo haya comprendido.\
+\uc0\u8209 Para calzarse la capitan\'eda hay que lisonjear un tanto a los patrones.\
+\uc0\u8209 Espero ser capit\'e1n sin necesidad de eso \u8209 respondi\'f3 Dant\'e9s.\
+\uc0\u8209 Tanto mejor para ti y tus antiguos conocidos, sobre todo para alguien que vive all\'e1 abajo, detr\'e1s de la Ciudadela de San Nicol\'e1s.\
+\uc0\u8209 \'bfMercedes? \u8209 dijo el anciano.\
+\uc0\u8209 S\'ed, padre m\'edo \u8209 replic\'f3 Dant\'e9s\u8209 ; y con vuestro permiso, pues ya que os he visto, y s\'e9 que est\'e1is bien y que tendr\'e9is todo lo que os haga falta, si no os incomod\'e1is, ir\'e9 a hacer una visita a los Catalanes.\
+\uc0\u8209 Ve, hijo m\'edo, ve \u8209 dijo el viejo Dant\'e9s\u8209 , \'a1Dios te bendiga en tu mujer, como me ha bendecido en mi hijo!\
+\uc0\u8209 \'a1Su mujer! \u8209 dijo Caderousse\u8209 ; si a\'fan no lo es, padre Dant\'e9s; si a\'fan no lo es, seg\'fan creo.\
+\uc0\u8209 No; pero seg\'fan todas las probabilidades \u8209 respondi\'f3 Edmundo, no tardar\'e1 mucho en serlo.\
+\uc0\u8209 No importa, no importa \u8209 dijo Caderousse\u8209 , has hecho bien en apresurarte a venir, muchacho.\
+\uc0\u8209 \'bfPor qu\'e9? \u8209 preguntole.\
+\uc0\u8209 Porque Mercedes es una buena moza, y a las buenas mozas nunca les faltan pretendientes, a \'e9sa sobre todo. La persiguen a docenas.\
+\uc0\u8209 \'bfDe veras? \u8209 dijo Edmundo con una sonrisa que revelaba inquietud, aunque leve.\
+\uc0\u8209 \'a1Oh! \'a1S\'ed! \u8209 replic\'f3 Caderousse\u8209 , y se le presentan tambi\'e9n buenos partidos, pero no temas, como vas a ser capit\'e1n, no hay miedo de que lo d\'e9 calabazas.\
+\uc0\u8209 Eso quiere decir \u8209 replic\'f3 Dant\'e9s, con sonrisa que disfrazaba mal su inquietud\u8209 , que si no fuese capit\'e1n...\
+\uc0\u8209 Hem... \u8209 balbuci\'f3 Caderousse.\
+\uc0\u8209 Vamos, vamos \u8209 dijo el joven\u8209 , yo tengo mejor opini\'f3n que vos de las mujeres en general, y de Mercedes en particular, y estoy convencido de que, capit\'e1n o no, siempre me ser\'e1 fiel.\
+\uc0\u8209 Tanto mejor \u8209 dijo el sastre\u8209 , siempre es bueno tener fe, cuando uno va a casarse; \'a1pero no importa!, cr\'e9eme, muchacho, no pierdas tiempo en irle a anunciar lo llegada y en participarle tus esperanzas.\
+\uc0\u8209 All\'e1 voy \u8209 dijo Edmundo, y abraz\'f3 a su padre, salud\'f3 a Caderousse y sali\'f3.\
+Al poco rato, Caderousse se despidi\'f3 del viejo Dant\'e9s, baj\'f3 a su vez la escalera y fue a reunirse con Danglars, que le estaba esperando al extremo de la calle de Senac.\
+\uc0\u8209 Conque \u8209 dijo Danglars\u8209 , \'bfle has visto?\
+\uc0\u8209 Acabo de separarme de \'e9l \u8209 contest\'f3 Caderousse.\
+\uc0\u8209 \'bfY te ha hablado de sus esperanzas de ser capit\'e1n?\
+\uc0\u8209 Ya lo da por seguro.\
+\uc0\u8209 \'a1Paciencia! \u8209 dijo Danglars\u8209 ; va muy de prisa, seg\'fan creo.\
+\uc0\u8209 \'a1Diantre!, no parece sino que le haya dado palabra formal el se\'f1or Morrel.\
+\uc0\u8209 \'bfEstar\'e1 muy contento?\
+\uc0\u8209 Est\'e1 m\'e1s que contento, est\'e1 insolente. Ya me ha ofrecido sus servicios, como si fuese un gran se\'f1or, y dinero como si fuese un capitalista.\
+\uc0\u8209 Por supuesto que habr\'e1s rehusado, \'bfno?\
+\uc0\u8209 S\'ed, aunque bastantes motivos ten\'eda para aceptar, puesto que yo fui el que le prest\'f3 el primer dinero que tuvo en su vida; pero ahora el se\'f1or Dant\'e9s no necesitar\'e1 de nadie, pues va a ser capit\'e1n.\
+\uc0\u8209 Pero a\'fan no lo es -observ\'f3 Danglars.\
+\uc0\u8209 Mejor que no lo fuese \u8209 dijo Caderousse\u8209 , porque entonces, \'bfqui\'e9n lo toleraba?\
+\uc0\u8209 De nosotros depende \u8209 dijo Danglars\u8209  que no llegue a serlo, y hasta que sea menos de lo que es.\
+\uc0\u8209 \'bfQu\'e9 dices?\
+\uc0\u8209 Yo me entiendo. \'bfY sigue am\'e1ndole la catalana?\
+\uc0\u8209 Con frenes\'ed; ahora estar\'e1 en su casa. Pero, o mucho me enga\'f1o, o alg\'fan disgusto le va a dar ella.\
+\uc0\u8209 Expl\'edcate.\
+\uc0\u8209 \'bfPara qu\'e9?\
+\uc0\u8209 Es mucho m\'e1s importante de lo que t\'fa lo imaginas.\
+\uc0\u8209 T\'fa no le quieres bien, \'bfes verdad?\
+\uc0\u8209 No me gustan los orgullosos.\
+\uc0\u8209 Entonces dime todo lo que sepas de la catalana.\
+\uc0\u8209 Nada s\'e9 de positivo; pero he visto cosas que me hacen creer, como lo dije, que esperaba al futuro capit\'e1n alg\'fan disgusto por los alrededores de las Vieilles\u8209 Infirmeries.\
+\uc0\u8209 \'bfQu\'e9 has visto? Vamos, di.\
+\uc0\u8209 Observ\'e9 que siempre que Mercedes viene por la ciudad, la acompa\'f1a un joven catal\'e1n, de ojos negros, de piel tostada, moreno, muy ardiente, y a quien llama primo.\
+\uc0\u8209 \'a1Ah! \'bfDe veras? Y \'bfte parece que ese primo le haga la corte?\
+\uc0\u8209 A lo menos lo supongo. \'bfQu\'e9 otra cosa puede haber entre un muchacho de veinti\'fan a\'f1os y una joven de diecisiete?\
+\uc0\u8209 \'bfY Dant\'e9s ha ido a los Catalanes?\
+\uc0\u8209 Ha salido de su casa antes que yo.\
+\uc0\u8209 Si fu\'e9semos por el mismo lado, nos detendr\'edamos en la Reserva, en casa del compadre P\'e1nfilo, y bebiendo un vaso de vino, sabr\'edamos algunas noticias...\
+\uc0\u8209 \'bfY qui\'e9n nos las dar\'e1?\
+\uc0\u8209 Estaremos al acecho, y cuando pase Dant\'e9s adivinaremos en la expresi\'f3n de su rostro lo que haya pasado.\
+\uc0\u8209 Vamos all\'e1 \u8209 dijo Caderousse\u8209 , pero \'bfpagas t\'fa?\
+\uc0\u8209 Pues claro \u8209 respondi\'f3 Danglars.\
+Los dos se encaminaron apresuradamente hacia el lugar indicado, donde pidieron una botella y dos vasos. El compadre P\'e1nfilo acababa, seg\'fan dijo, de ver pasar a Dant\'e9s diez minutos antes. Seguros de que se hallaba en los Catalanes, se sentaron bajo el follaje naciente de los pl\'e1tanos y sic\'f3moros, en cuyas ramas una alegre bandada de pajarillos saludaba con sus gorjeos los primeros d\'edas de la primavera.\
+\
+\pard\pardeftab708\fi180\ri182\qj\partightenfactor0
+
+\f0\b \cf0 Cap\'edtulo tercero\
+\pard\pardeftab708\fi180\ri182\qj\partightenfactor0
+
+\f2\i \cf0 Los catalanes\
+\pard\pardeftab708\fi180\ri182\qj\partightenfactor0
+
+\f1\i0\b0 \cf0 A cien pasos del lugar en que los dos amigos, con los ojos fijos en el horizonte y el o\'eddo atento, paladeaban el vino de Lamalgue, detr\'e1s de un promontorio desnudo y agostado por el sol y por el viento nordeste, se encontraba el modesto barrio de los Catalanes.\
+Una colonia misteriosa abandon\'f3 en cierto tiempo Espa\'f1a, yendo a establecerse en la lengua de tierra en que permanece a\'fan. Nadie supo de d\'f3nde ven\'eda, y hasta hablaba un dialecto desconocido. Uno de sus jefes, el \'fanico que se hac\'eda entender un poco en lengua provenzal, pidi\'f3 a la municipalidad de Marsella que les concediese aquel \'e1rido promontorio, en el coal, a fuer de marinos antiguos, acababan de dejar sus barcos. Su petici\'f3n les fue aceptada, y tres meses despu\'e9s aquellos gitanos del mar hab\'edan edificado un pueblecito en torno a sus quince o veinte barcas.\
+Construido en el d\'eda de hoy de una manera extra\'f1a y pintoresca, medio \'e1rabe, medio espa\'f1ola, es el mismo que se ve hoy habitado por los descendientes de aquellos hombres que hasta conservan el idioma de sus padres. Tres o cuatro siglos han pasado, y a\'fan permanecen fieles al promontorio en que se dejaron caer como una bandada de aves marinas. No s\'f3lo no se mezclan con la poblaci\'f3n de Marsella, sino que se casan entre s\'ed, conservando los h\'e1bitos y costumbres de la madre patria, del mismo modo que su idioma.\
+Es preciso que nuestros lectores nos sigan a trav\'e9s de la \'fanica calle de este pueblecito, y entren con nosotros en una de aquellas casas, a cuyo exterior ha dado el sol el bello colorido de las hojas secas, com\'fan a todos los edificios del pa\'eds, y cuyo interior pule una capa de cal, esa tinta blanca, \'fanico adorno de las posadas espa\'f1olas.\
+Una bella joven de pelo negro como el \'e9bano y ojos dulc\'edsimos como los de la gacela, estaba de pie, apoyada en una silla, oprimiendo entre sus dedos afilados una inocente rosa cuyas hojas arrancaba, y los pedazos se ve\'edan ya esparcidos por el suelo. Sus brazos desnudos hasta el codo, brazos \'e1rabes, pero que parec\'edan modelados por los de la Venus de Arl\'e9s, temblaban con impaciencia febril, y golpeaba de tal modo la tierra con su diminuto pie, que se entreve\'edan las formas puras de su pierna, ce\'f1ida por una media de algod\'f3n encarnado a cuadros azules.\
+A tres pasos de ella, sentado en una silla, balance\'e1ndose a comp\'e1s y apoyando su codo en un mueble antiguo, hall\'e1base un mocet\'f3n de veinte a veintid\'f3s a\'f1os que la miraba con un aire en que se trasluc\'eda inquietud y despecho: sus miradas parec\'edan interrogadoras; pero la mirada firme y fija de la joven le dominaba enteramente.\
+\uc0\u8209 Vamos, Mercedes \u8209 dec\'eda el joven\u8209 , las pascuas se acercan, es el tiempo mejor para casarse. \'bfNo lo crees?\
+\uc0\u8209 Ya lo dije cien veces lo que pensaba, Fernando, y en poco lo estimas, pues a\'fan sigues pregunt\'e1ndome.\
+\uc0\u8209 Rep\'edtemelo, te lo suplico, rep\'edtemelo por cent\'e9sima vez para que yo pueda creerlo. Dime que desprecias mi amor, el amor que aprobaba lo madre. Haz que comprenda que te burlas de mi felicidad; que mi vida o mi muerte no son nada para ti... \'a1Ah, Dios m\'edo, Dios m\'edo!, haber so\'f1ado diez a\'f1os con la dicha de ser tu esposo, y perder esta esperanza, la \'fanica de mi vida.\
+\uc0\u8209 No soy yo por cierto quien ha alimentado en ti esa esperanza con mis coqueter\'edas, Fernando \u8209 respondi\'f3 Mercedes\u8209 . Siempre lo he dicho: \'abTe amo como hermano; pero no exijas de m\'ed otra cosa, porque mi coraz\'f3n pertenece a otro. \'bfNo lo he dicho siempre esto?\
+\uc0\u8209 S\'ed, ya lo s\'e9, Mercedes \u8209 respondi\'f3 Fernando\u8209 ; hasta el horrible atractivo de la franqueza tienes conmigo. Pero \'bfolvidas que es ley sagrada entre los nuestros el casarse catalanes con catalanes?\
+\uc0\u8209 Te equivocas, Fernando, no es una ley, sino una costumbre; y, cr\'e9eme, no debes de invocar esta costumbre en lo favor. Has entrado en quintas. La libertad de que gozas la debes \'fanicamente a la tolerancia. De un momento a otro pueden reclamarte tus banderas, y una vez seas soldado, \'bfqu\'e9 har\'edas de m\'ed, pobre hu\'e9rfana, sin otra fortuna que una m\'edsera caba\'f1a casi arruinada y unas malas redes, herencia \'fanica de mis padres? Hace un a\'f1o que muri\'f3 mi madre, y desde entonces, bien lo sabes, vivo casi a expensas de la caridad p\'fablica. Tal vez me dices que lo soy \'fatil, para partir conmigo tu pesca, y yo la acepto, Fernando, porque eres hijo del hermano de mi padre, porque nos hemos criado juntos, y porque adem\'e1s s\'e9 que lo disgustar\'edas si la rehusase. Pero s\'e9 muy bien que ese pescado que yo vendo, y ese dinero que me dan por \'e9l, y con el cual compro el estambre que luego hilo, no es m\'e1s que una limosna, y como tal la recibo.\
+\uc0\u8209 \'bfY eso qu\'e9 importa, Mercedes? Pobre y sola como vives, me convienes m\'e1s que la hija del naviero m\'e1s rico de Marsella. Yo quiero una mujer honrada y hacendosa, y ninguna como t\'fa posee esas cualidades.\
+\uc0\u8209 Fernando \u8209 respondi\'f3 Mercedes con un movimiento de cabeza\u8209 , no puede responder de ser siempre honrada y hacendosa, la que ama a otro hombre que no sea su marido. Conf\'f3rmate con mi amistad, porque te repito que esto es todo lo que yo puedo prometerte. Yo no ofrezco sino lo que estoy segura de poder dar.\
+\uc0\u8209 S\'ed, s\'ed, ya lo comprendo \u8209 dijo Fernando\u8209 ; soportas con resignaci\'f3n tu miseria, pero te asusta la m\'eda. Pero, oye, Mercedes, si me amas probar\'e9 fortuna y llegar\'e9 a ser rico. Puedo dejar el oficio de pescador; puedo entrar de dependiente en alguna casa de comercio, y llegar a ser comerciante.\
+\uc0\u8209 T\'fa no puedes hacer nada de eso, Fernando. Eres soldado, y si permaneces en los Catalanes todav\'eda es porque no hay guerra; sigue con lo oficio de pescador, no hagas castillos en el aire, y conf\'f3rmate con mi amistad, pues no puedo dar otra cosa.\
+\uc0\u8209 Pues bien, tienes raz\'f3n, Mercedes, me har\'e9 marinero, dejar\'e9 el trabajo de nuestros padres que t\'fa tanto desprecias, y me pondr\'e9 un sombrero de suela, una camisa rayada y una chaqueta azul con anclas en los botones. \'bfNo es as\'ed como hay que vestirse para agradarte?\
+\uc0\u8209 \'bfQu\'e9 quieres decir con eso? No lo comprendo...\
+\uc0\u8209 Quiero decir que no ser\'edas tan cruel conmigo, si no esperaras a uno que usa el traje consabido. Pero quiz\'e1s \'e9l no te es fiel, y aunque lo fuera, el mar no lo habr\'e1 sido con \'e9l.\
+\uc0\u8209 \'a1Fernando! \u8209 exclam\'f3 Mercedes\u8209 , \'a1te cre\'eda bueno, pero me enga\'f1aba! Eso es prueba de mal coraz\'f3n. S\'ed, no te lo oculto, espero y amo a ese que dices, y si no volviese, en lugar de acusarle de inconstancia, creer\'eda que ha muerto ador\'e1ndome.\
+Fernando hizo un gesto de rabia.\
+\uc0\u8209 Adivino tus pensamientos, Fernando, querr\'e1s vengar en \'e9l los desdenes m\'edos... querr\'e1s desafiarle... Pero \'bfqu\'e9 conseguir\'e1s con esto? Perder mi amistad si eres vencido, ganar mi odio si vencedor. Cr\'e9eme, Fernando: no es batirse con un hombre el medio de agradar a la mujer que le ama. Convencido de que te es imposible tenerme por esposa, no, Fernando, no lo har\'e1s, lo contentar\'e1s con que sea tu amiga y tu hermana. Por otra parte \u8209 a\'f1adi\'f3 con los ojos pre\'f1ados de l\'e1grimas\u8209 , t\'fa lo has dicho hace poco, el mar es p\'e9rfido: espera, Fernando, espera. Han pasado cuatro meses desde que parti\'f3... \'a1cuatro meses, y durante ellos he contado tantas tempestades!...\
+Permaneci\'f3 Fernando impasible sin cuidarse de enjugar las l\'e1grimas que resbalaban por las mejillas de Mercedes, aunque a decir verdad, por cada una de aquellas l\'e1grimas hubiera dado mil gotas de su sangre..., pero aquellas l\'e1grimas las derramaba por otro. P\'fasose en pie, dio una vuelta por la caba\'f1a, volvi\'f3, det\'favose delante de Mercedes, y con una mirada sombr\'eda y los pu\'f1os crispados exclam\'f3:\
+\uc0\u8209 Mercedes, te lo repito, responde, \'bfest\'e1s resuelta?\
+\uc0\u8209 \'a1Amo a Edmundo Dant\'e9s \u8209 dijo fr\'edamente Mercedes\u8209 , y ning\'fan otro que Edmundo ser\'e1 mi esposo!\
+\uc0\u8209 \'bfY le amar\'e1s siempre?\
+\uc0\u8209 Hasta la muerte.\
+Fernando baj\'f3 la cabeza desalentado; exhal\'f3 un suspiro que m\'e1s bien parec\'eda un gemido, y levantando de repente la cabeza y rechinando los dientes de c\'f3lera exclam\'f3:\
+\uc0\u8209 Pero, \'bfy si hubiese muerto?\
+\uc0\u8209 Si hubiese muerto... \'a1Entonces yo tambi\'e9n me morir\'eda!\
+\uc0\u8209 \'bfY si lo olvidase?\
+\uc0\u8209 \'a1Mercedes! \u8209 grit\'f3 una voz jovial y sonora desde fuera\u8209 . \'a1Mercedes!\
+\uc0\u8209 \'a1Ah! \u8209 exclam\'f3 la joven sonroj\'e1ndose de alegr\'eda y de amor\u8209 ; bien ves que no me ha olvidado, pues ya ha llegado.\
+Y lanz\'e1ndose a la puerta la abri\'f3 exclamando:\
+\uc0\u8209 \'a1Aqu\'ed, Edmundo, aqu\'ed estoy!\
+Fernando, l\'edvido y furioso, retrocedi\'f3 como un caminante al ver una serpiente, cayendo anonadado sobre una silla, mientras que Edmundo y Mercedes se abrazaban. El ardiente sol de Marsella penetrando a trav\'e9s de la puerta, los inundaba de sus dorados reflejos. Nada ve\'edan en torno suyo: una inmensa felicidad los separaba del mundo y solamente pronunciaban palabras entrecortadas que revelaban la alegr\'eda de su coraz\'f3n.\
+De pronto Edmundo vislumbr\'f3 la cara sombr\'eda de Fernando, que se dibujaba en la sombra, p\'e1lida y amenazadora, y quiz\'e1, sin que \'e9l mismo comprendiese la raz\'f3n, el joven catal\'e1n ten\'eda apoyada la mano sobre el cuchillo que llevaba en la cintura.\
+\uc0\u8209 \'a1Ah! \u8209 dijo Edmundo frunciendo las cejas a su vez\u8209 ; no hab\'eda reparado en que somos tres.\
+Volvi\'e9ndose en seguida a Mercedes:\
+\uc0\u8209 \'bfQui\'e9n es ese hombre? \u8209 le pregunt\'f3.\
+\uc0\u8209 Un hombre que ser\'e1 de aqu\'ed en adelante lo mejor amigo, Dant\'e9s, porque lo es m\'edo, es mi primo, mi hermano Fernando, es decir, el hombre a quien despu\'e9s de ti amo m\'e1s en la tierra.\
+\uc0\u8209 Est\'e1 bien \u8209 respondi\'f3 Edmundo.\
+Y sin soltar a Mercedes, cuyas manos estrechaba con la izquierda, present\'f3 con un movimiento cordial\'edsimo la diestra al catal\'e1n. Pero lejos de responder Fernando a este adem\'e1n amistoso, permaneci\'f3 mudo a inm\'f3vil como una estatua. Entonces dirigi\'f3 Edmundo miradas interrogadoras a Mercedes, que estaba temblando, y al sombr\'edo y amenazador catal\'e1n alternativamente. Estas miradas le revelaron todo el misterio, y la c\'f3lera se apoder\'f3 de su coraz\'f3n.\
+\uc0\u8209 Al darme tanta prisa en venir a vuestra casa, no cre\'eda encontrar en ella un enemigo.\
+\uc0\u8209 \'a1Un enemigo! \u8209 exclam\'f3 Mercedes dirigiendo una mirada de odio a su primo\u8209 ; \'bfun enemigo en mi casa? A ser cierto, yo lo coger\'eda del brazo y me ir\'eda a Marsella, abandonando esta casa para no volver a pisar sus umbrales.\
+La mirada de Fernando centelle\'f3.\
+\uc0\u8209 Y si te sucediese alguna desgracia, Edmundo m\'edo \u8209 continu\'f3 con aquella calma implacable que daba a conocer a Fernando cu\'e1n bien le\'eda en su siniestra mente\u8209 , si te aconteciese alguna desgracia, trepar\'eda al cabo del Morgi\'f3n para arrojarme de cabeza contra las rocas.\
+Fernando se puso l\'edvido.\
+\uc0\u8209 Pero te enga\'f1as, Edmundo \u8209 prosigui\'f3 Mercedes\u8209 . Aqu\'ed no hay enemigo alguno, sino mi primo Fernando, que va a darte la mano como a su m\'e1s \'edntimo amigo.\
+Y la joven fij\'f3, al decir estas palabras, su imperiosa mirada en el catal\'e1n, quien, como fascinado por ella, se acerc\'f3 lentamente a Edmundo y le tendi\'f3 la mano.\
+Su odio desaparec\'eda ante el ascendiente de Mercedes. Pero apenas hubo tocado la mano de Edmundo, conoci\'f3 que hab\'eda ya hecho todo lo que pod\'eda hacer, y se lanz\'f3 fuera de la casa.\
+\uc0\u8209 \'a1Oh! \u8209 exclamaba corriendo como un insensato, y mes\'e1ndose los cabellos\u8209 . \'a1Oh! \'bfQui\'e9n me librar\'e1 de ese hombre? \'a1Desgraciado de m\'ed!\
+\uc0\u8209 \'a1Eh!, catal\'e1n, \'a1eh! \'a1Fernando! \'bfAd\'f3nde vas? \u8209 dijo una voz.\
+El joven se detuvo para mirar en torno y vio a Caderousse sentado con Danglars bajo el emparrado.\
+\uc0\u8209 \'a1Eh! \u8209 le dijo Caderousse\u8209 . \'bfPor qu\'e9 no te acercas? \'bfTanta prisa tienes que no te queda tiempo para dar los buenos d\'edas a tus amigos?\
+\uc0\u8209 Especialmente cuando tienen delante una botella casi llena \u8209 a\'f1adi\'f3 Danglars.\
+Fernando mir\'f3 a los dos hombres como atontado y sin responderles.\
+\uc0\u8209 Afligido parece \u8209 dijo Danglars tocando a Caderousse con la rodilla\u8209 . \'bfNos habremos enga\'f1ado, y se saldr\'e1 Dant\'e9s con su tema contra todas nuestras previsiones?\
+\uc0\u8209 \'a1Diantre! Es preciso averiguar esto \u8209 contest\'f3 Caderousse; y volvi\'e9ndose hacia el joven le grit\'f3\u8209 : Catal\'e1n, \'bfte decides?\
+Fernando enjug\'f3se el sudor que corr\'eda por su frente, y entr\'f3 a paso lento bajo el emparrado, cuya sombra puso un tanto de calma en sus sentidos, y la frescura, vigor en sus cansados miembros.\
+\uc0\u8209 Buenos d\'edas: me hab\'e9is llamado, \'bfverdad? \u8209 dijo desplom\'e1ndose sobre uno de los bancos que rodeaban la mesa.\
+\uc0\u8209 Corr\'edas como loco, y tem\'ed que te arrojases al mar \u8209 respondi\'f3 Caderousse riendo\u8209 . \'a1Qu\'e9 demonio! A los amigos no solamente se les debe ofrecer un vaso de vino, sino tambi\'e9n impedirles que se beban tres o cuatro vasos de agua.\
+Fernando exhal\'f3 un suspiro que pareci\'f3 un sollozo, y hundi\'f3 la cabeza entre las manos.\
+\uc0\u8209 \'a1Hum! \'bfQuieres que te hable con franqueza, Fernando? \u8209 dijo Caderousse, entablando la conversaci\'f3n con esa brutalidad grosera de la gente del pueblo, que con la curiosidad olvidan toda clase de diplomacia\u8209 , pues tienes todo el aire de un amante desde\'f1ado.\
+Y acompa\'f1\'f3 esta broma con una estrepitosa carcajada.\
+\uc0\u8209 \'a1Bah! \u8209 replic\'f3 Danglars\u8209 ; un muchacho como \'e9ste no ha nacido para ser desgraciado en amores: t\'fa te burlas, Caderousse.\
+\uc0\u8209 No\u8209 replic\'f3 \'e9ste\u8209 , f\'edjate, \'a1qu\'e9 suspiros!... Vamos, vamos, Fernando, levanta la cabeza y resp\'f3ndenos. No est\'e1 bien que calles a las preguntas de quien se interesa por tu salud.\
+\uc0\u8209 Estoy bien \u8209 murmur\'f3 Fernando apretando los pu\'f1os, aunque sin levantar la cabeza.\
+\uc0\u8209 \'a1Ah!, ya lo ves, Danglars \u8209 repuso Caderousse gui\'f1ando el ojo a su amigo\u8209 . Lo que pasa es esto: que Fernando, catal\'e1n valiente, como todos los catalanes, y uno de los mejores pescadores de Marsella, est\'e1 enamorado de una linda muchacha llamada Mercedes; pero desgraciadamente, a lo que creo, la muchacha ama por su parte al segundo de 
+\f3\i El Fara\'f3n
+\f1\i0 ; y como
+\f3\i  El Fara\'f3n 
+\f1\i0 ha entrado hoy mismo en el puerto... \'bfMe comprendes?\
+\uc0\u8209 Que me muera, si lo entiendo \u8209 respondi\'f3 Danglars:\
+\uc0\u8209 El pobre Fernando habr\'e1 recibido el pasaporte.\
+\uc0\u8209 \'a1Y bien! \'bfQu\'e9 m\'e1s? \u8209 dijo Fernando levantando la cabeza y mirando a Caderousse como aquel que busca en qui\'e9n descargar su c\'f3lera\u8209 . Mercedes no depende de nadie, \'bfno es as\'ed? \'bfNo puede amar a quien se le antoje?\
+\uc0\u8209 \u8209 \'a1Ah!, \'a1si lo tomas de ese modo \u8209 \u8209 lijo Caderousse\u8209 , eso es otra cosa! Yo te ten\'eda por catal\'e1n. Me han dicho que los catalanes no son hombres para dejarse vencer por un rival, y tambi\'e9n me han asegurado que Fernando, sobre todo, es temible en la venganza.\
+\uc0\u8209 Un enamorado nunca es temible \u8209 repuso Fernando sonriendo.\
+\uc0\u8209 \'a1Pobre muchacho! \u8209 replic\'f3 Danglars fingiendo compadecer al joven\u8209 . \'bfQu\'e9 quieres? No esperaba, sin duda, que volviese Dant\'e9s tan pronto. Quiz\'e1 le creer\'eda muerto, quiz\'e1s infiel, \'a1qui\'e9n sabe! Esas cosas son tanto m\'e1s sensibles cuanto que nos est\'e1n sucediendo a cada paso.\
+\uc0\u8209 Seguramente que no dices m\'e1s que la verdad \u8209 respondi\'f3 Caderousse, que beb\'eda al comp\'e1s que hablaba, y a quien el espumoso vino de Lamalgue comenzaba a hacer efecto\u8209 . Fernando no es el \'fanico que siente la llegada de Dant\'e9s, \'bfno es as\'ed, Danglars?\
+\uc0\u8209 S\'ed, y casi puedo asegurarte que eso le ha de traer alguna desgracia.\
+\uc0\u8209 Pero no importa \u8209 a\'f1adi\'f3 Caderousse llenando un vaso de vino para el joven, y haciendo lo mismo por duod\'e9cima vez con el suyo\u8209 ; no importa, mientras tanto se casa con Mercedes, con la bella Mercedes... se sale con la suya.\
+Durante este coloquio, Danglars observaba con mirada escudri\'f1adora al joven. Las palabras de Caderousse ca\'edan como plomo derretido sobre su coraz\'f3n.\
+\uc0\u8209 \'bfY cu\'e1ndo es la boda? \u8209 pregunt\'f3.\
+\uc0\u8209 \'a1Oh!, todav\'eda no ha sido fijada \u8209 murmur\'f3 Fernando.\
+\uc0\u8209 No, pero lo ser\'e1 -dijo Caderousse\u8209 ; lo ser\'e1 tan cierto como que Dant\'e9s ser\'e1 capit\'e1n de 
+\f3\i El Fara\'f3n
+\f1\i0 : \'bfno opinas t\'fa lo mismo, Danglars?\
+Danglars se estremeci\'f3 al o\'edr esta salida inesperada, volvi\'e9ndose a Caderousse, en cuya fisonom\'eda estudi\'f3 a su vez si el golpe estaba premeditado; pero s\'f3lo ley\'f3 la envidia en aquel rostro casi trastornado por la borrachera.\
+\uc0\u8209 \'a1Ea! -dijo llenando los vasos\u8209 . \'a1Bebamos a la salud del capit\'e1n Edmundo Dant\'e9s, marido de la bella catalana!\
+Caderousse llev\'f3 el vaso a sus labios con mano temblorosa, y lo apur\'f3 de un sorbo. Fernando tom\'f3 el suyo y lo arroj\'f3 con furia al suelo.\
+\uc0\u8209 \'a1Vaya! \u8209 exclam\'f3 Caderousse\u8209 . \'bfQu\'e9 es lo que veo all\'e1 abajo en direcci\'f3n a los Catalanes? Mira, Fernando, t\'fa tienes mejores ojos que yo: me parece que empiezo a ver demasiado, y bien sabes que el vino enga\'f1a mucho... Dir\'edase que se trata de dos amantes que van agarrados de la mano... \'a1Dios me perdone! \'a1No presumen que les estamos viendo, y mira c\'f3mo se abrazan!\
+Danglars no dejaba de observar a Fernando, cuyo rostro se contra\'eda horriblemente.\
+\uc0\u8209 \'a1Calle! \'bfLos conoc\'e9is, se\'f1or Fernando? \u8209 dijo.\
+\uc0\u8209 S\'ed \u8209 respondi\'f3 \'e9ste con voz sorda\u8209 . \'a1Son Edmundo y Mercedes!\
+\uc0\u8209 \'a1Digo! \u8209 exclam\'f3 Caderousse\u8209 . \'a1Y yo no los conoc\'eda! \'a1Dant\'e9s! \'a1Muchacha! Venid aqu\'ed, y decidnos cu\'e1ndo es la boda, porque el testarudo de Fernando no nos lo quiere decir.\
+\uc0\u8209 \'bfQuieres callarte? \u8209 \u8209 dijo Danglars, fingiendo detener a Caderousse, que tenaz como todos los que han bebido mucho se dispon\'eda a interrumpirles\u8209 . Haz por tenerte en pie, y deja tranquilos a los enamorados. Mira, mira a Fernando, y toma ejemplo de \'e9l.\
+Acaso \'e9ste, incitado por Danglars, como el toro por los toreros, iba al fin a arrojarse sobre su rival, pues ya de pie tomaba una actitud siniestra, cuando Mercedes, risue\'f1a y gozosa, levant\'f3 su linda cabeza y clav\'f3 en Fernando su brillante mirada. Entonces el catal\'e1n se acord\'f3 de que le hab\'eda prometido morir si Edmundo mor\'eda, y volvi\'f3 a caer desesperado sobre su asiento.\
+Danglars mir\'f3 sucesivamente a los dos hombres, el uno embrutecido por la embriaguez y el otro dominado por los celos.\
+\uc0\u8209 \'a1Oh! Ning\'fan partido sacar\'e9 de estos dos hombres \u8209 murmur\'f3\u8209 , y casi tengo miedo de estar en su compa\'f1\'eda. Este bellaco se embriaga de vino, cuando s\'f3lo deb\'eda embriagarse de odio; el otro es un imb\'e9cil que le acaban de quitar la novia en sus mismas narices, y se contenta solamente con llorar y quejarse como un chiquillo. Sin embargo, tiene la mirada torva como los espa\'f1oles, los sicilianos y los calabreses que saben vengarse muy bien; tiene unos pu\'f1os capaces de estrujar la cabeza de un buey tan pronto como la cuchilla del carnicero... Decididamente el destino le favorece; se casar\'e1 con Mercedes, ser\'e1 capit\'e1n y se burlar\'e1 de nosotros como no... (una sonrisa siniestra apareci\'f3 en los labios de Danglars), como no tercie yo en el asunto.\
+\uc0\u8209 \'a1Hola! \u8209 segu\'eda llamando Caderousse a medio levantar de su asiento\u8209 . \'a1Hola!, Edmundo, \'bfno ves a los amigos, o lo has vuelto ya tan orgulloso que no quieres siquiera dirigirles la palabra?\
+\uc0\u8209 No, mi querido Caderousse \u8209 respondi\'f3 Dant\'e9s\u8209 ; no soy orgulloso, sino feliz, y la felicidad ciega algunas veces m\'e1s que el orgullo.\
+\uc0\u8209 Enhorabuena, ya eso es decir algo \u8209 replic\'f3 Caderousse\u8209 . \'a1Buenos d\'edas, se\'f1ora Dant\'e9s!\
+Mercedes salud\'f3 gravemente.\
+\uc0\u8209 Todav\'eda no es \'e9se mi apellido \u8209 dijo\u8209 , y en mi pa\'eds es de mal ag\'fcero algunas veces el llamar a las muchachas con el nombre de su prometido antes que se casen. Llamadme Mercedes.\
+\uc0\u8209 Es menester perdonar a este buen vecino \u8209 a\'f1adi\'f3 Dant\'e9s\u8209 . Falta tan poco tiempo...\
+\uc0\u8209 \'bfConque, es decir, que la boda se efectuar\'e1 pronto, se\'f1or Dant\'e9s? -dijo Danglars saludando a los dos j\'f3venes.\
+\uc0\u8209 Lo m\'e1s pronto que se pueda, se\'f1or Danglars: nos toman hoy los dichos en casa de mi padre, y ma\'f1ana o pasado ma\'f1ana a m\'e1s tardar ser\'e1 la comida de boda, aqu\'ed, en 
+\f3\i La Reserva
+\f1\i0 ; los amigos asistir\'e1n a ella; lo que quiere decir que est\'e1is invitados desde ahora, se\'f1or Danglars, y t\'fa tambi\'e9n, Caderousse.\
+\uc0\u8209 \'bfY Fernando? \u8209 dijo Caderousse sonriendo con malicia\u8209 ; \'bfFernando lo est\'e1 tambi\'e9n?\
+\uc0\u8209 El hermano de mi mujer lo es tambi\'e9n m\'edo \u8209 respondi\'f3 Edmundo\u8209 , y con much\'edsima pena le ver\'edamos lejos de nosotros en semejante momento.\
+Fernando abri\'f3 la boca para contestar; pero la voz se apag\'f3 en sus labios y no pudo articular una sola palabra.\
+\uc0\u8209 \'a1Hoy los dichos, ma\'f1ana o pasado la boda!... \'a1Diablo!, mucha prisa os dais, capit\'e1n.\
+\uc0\u8209 Danglars \u8209 repuso Edmundo sonriendo\u8209 , d\'edgo lo que Mercedes dec\'eda hace poco a Caderousse: no me deis ese t\'edtulo que a\'fan no poseo, que podr\'eda ser de mal ag\'fcero para m\'ed.\
+\uc0\u8209 Dispensadme \u8209 respondi\'f3 Danglars\u8209 . Dec\'eda, pues, que os dais demasiada prisa. \'a1Qu\'e9 diablo!, tiempo sobra: 
+\f3\i El Fara\'f3n
+\f1\i0  no se volver\'e1 a dar a la mar hasta dentro de tres meses.\
+\uc0\u8209 Siempre tiene uno prisa por ser feliz, se\'f1or Danglars; porque quien ha sufrido mucho, apenas puede creer en la dicha. Pero no es s\'f3lo el ego\'edsmo el que me hace obrar de esta manera; tengo que ir a Par\'eds.\
+\uc0\u8209 \'a1Ah! \'bfA Par\'eds? \'bfY es la primera vez que vais all\'ed, Dant\'e9s?\
+\uc0\u8209 S\'ed.\
+\uc0\u8209 Alg\'fan negocio, \'bfno es as\'ed?\
+\uc0\u8209 No m\'edo; es una comisi\'f3n de nuestro pobre capit\'e1n Leclerc. Ya comprender\'e9is que esto es sagrado. Sin embargo, tranquilizaos, no gastar\'e9 m\'e1s tiempo que el de ida y vuelta.\
+\uc0\u8209 S\'ed, s\'ed, ya entiendo \u8209 dijo Danglars. Y despu\'e9s a\'f1adi\'f3 en voz sumamente baja\u8209 : A Par\'eds... Sin duda, para llevar alguna carta que el capit\'e1n le ha entregado. \'a1Ah!, \'a1diantre! Esa carta me acaba de sugerir una idea... una excelente idea. \'a1Ah! \'a1Dant\'e9s!, amigo m\'edo, a\'fan no tienes el n\'famero 1 en el registro de 
+\f3\i El Fara\'f3n.
+\f1\i0  \uc0\u8209 Y volvi\'e9ndose en seguida hacia Edmundo, que se alejaba:\u8209  \'a1Buen viaje! \u8209 le grit\'f3.\
+\uc0\u8209 Gracias \u8209 respondi\'f3 Edmundo volviendo la cabeza, y acompa\'f1ando este movimiento con cierto adem\'e1n amistoso. Y los dos enamorados prosiguieron su camino, tranquilos y alborozados como dos \'e1ngeles que se elevan al cielo.\
+\
+}
