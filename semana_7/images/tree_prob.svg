@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" width="250.3" height="137.3" version="1.1">
+<defs>
+<marker style="overflow:visible;" orient="auto" id="id06">
+<path d="M 0,0 5,-5 -12.5,0 5,5 Z" transform="matrix(-0.8,0,0,-0.8,-10,0)" style="fill:black; stroke:black; stroke-width:1pt;"/>
+</marker>
+<marker style="overflow:visible;" orient="auto" id="id01">
+<path d="M 0,0 5,-5 -12.5,0 5,5 Z" transform="matrix(-0.8,0,0,-0.8,-10,0)" style="fill:black; stroke:black; stroke-width:1pt;"/>
+</marker>
+<marker style="overflow:visible;" orient="auto" id="id02">
+<path d="M 0,0 5,-5 -12.5,0 5,5 Z" transform="matrix(-0.8,0,0,-0.8,-10,0)" style="fill:black; stroke:black; stroke-width:1pt;"/>
+</marker>
+<marker style="overflow:visible;" orient="auto" id="id03">
+<path d="M 0,0 5,-5 -12.5,0 5,5 Z" transform="matrix(-0.8,0,0,-0.8,-10,0)" style="fill:black; stroke:black; stroke-width:1pt;"/>
+</marker>
+<marker style="overflow:visible;" orient="auto" id="id04">
+<path d="M 0,0 5,-5 -12.5,0 5,5 Z" transform="matrix(-0.8,0,0,-0.8,-10,0)" style="fill:black; stroke:black; stroke-width:1pt;"/>
+</marker>
+<marker style="overflow:visible;" orient="auto" id="id05">
+<path d="M 0,0 5,-5 -12.5,0 5,5 Z" transform="matrix(-0.8,0,0,-0.8,-10,0)" style="fill:black; stroke:black; stroke-width:1pt;"/>
+</marker>
+</defs>
+<g transform="translate(-256.845,-1651.28)">
+<circle cx="261.6" cy="1718.7" r="3.95398" style="color:black; overflow:visible; fill:none; stroke:#0084c8; stroke-width:1.64; stroke-linejoin:round;"/>
+<path d="m 268.8,1715.3 79.5,-34.5" style="marker-end:url(#id01); fill:none; stroke:black; stroke-width:0.9;"/>
+<path d="m 268.3,1721.1 79.5,34.5" style="marker-end:url(#id02); fill:none; stroke:black; stroke-width:0.9;"/>
+<text x="351.3" y="1685.1" style="font-family:Georgia; font-size:18.7px; color:black; overflow:visible; fill:#ba00ff; stroke-width:0.5px;">Sam</text>
+<text x="351.2" y="1766.3" style="font-family:Georgia; font-size:18.7px; color:black; overflow:visible; fill:#d76cff; stroke-width:0.5px;">Alex</text>
+<text x="479.3" y="1750.1" style="font-family:Georgia; font-size:18.7px; color:black; overflow:visible; fill:#0084c8; stroke-width:0.5px;">Yes</text>
+<text x="481.1" y="1785.1" style="font-family:Georgia; font-size:18.7px; color:black; overflow:visible; fill:#ff4141; stroke-width:0.5px;">No</text>
+<text x="291.4" y="1692.2" style="font-family:Arial; font-size:16px; color:black; overflow:visible; fill:#ba00ff; stroke-width:0.5px;">0.6</text>
+<text x="291.4" y="1756.3" style="font-family:Arial; font-size:16px; color:black; overflow:visible; fill:#d76cff; stroke-width:0.5px;">0.4</text>
+<path d="M 389.8,1676.3 472.1,1661.9" style="marker-end:url(#id03); fill:none; stroke:black; stroke-width:0.9;"/>
+<text x="479.3" y="1667.5" style="font-family:Georgia; font-size:18.7px; color:black; overflow:visible; fill:#0084c8; stroke-width:0.5px;">Yes</text>
+<text x="481.1" y="1703.1" style="font-family:Georgia; font-size:18.7px; color:black; overflow:visible; fill:#ff4141; stroke-width:0.5px;">No</text>
+<text x="425.1" y="1663.9" style="font-family:Arial; font-size:16px; color:black; overflow:visible; fill:#0084c8; stroke-width:0.5px;">0.5</text>
+<text x="425.1" y="1705.4" style="font-family:Arial; font-size:16px; color:black; overflow:visible; fill:#ff4141; stroke-width:0.5px;">0.5</text>
+<text x="425.1" y="1745.5" style="font-family:Arial; font-size:16px; color:black; overflow:visible; fill:#0084c8; stroke-width:0.5px;">0.3</text>
+<text x="425.1" y="1788.4" style="font-family:Arial; font-size:16px; color:black; overflow:visible; fill:#ff4141; stroke-width:0.5px;">0.7</text>
+<path d="m 390.2,1681.5 82.3,14.4" style="marker-end:url(#id04); fill:none; stroke:black; stroke-width:0.9;"/>
+<path d="m 390.6,1758.6 82.3,-14.4" style="marker-end:url(#id05); fill:none; stroke:black; stroke-width:0.9;"/>
+<path d="m 391,1763.8 82.3,14.4" style="marker-end:url(#id06); fill:none; stroke:black; stroke-width:0.9;"/>
+</g>
+</svg>
